@@ -29,7 +29,7 @@ global.themeemoji = '✝️'
 global.wm = "Hermione Bot Inc."
 
 //theme link
-global.link = ''
+global.link = 'https://chat.whatsapp.com/BmR7ddjPv7Y2zMyCxn4HFH'
 
 //custom prefix
 global.prefa = ['!','.','#','&']
