@@ -10,18 +10,18 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348107582855"
-global.ownername = "メ メ 𝗛𝗘𝗥𝗠𝗜𝗢𝗡𝗘✝️"
+global.ownernomer = "2347083808798"
+global.ownername = "𝕮𝖍𝖆𝖔𝖘ᴳᴿᴱᵞ"
 global.ytname = "YT: Xeon"
 global.socialm = "GitHub: Feranmi245"
 global.location = "nigeria, lagos, abuja"
 
-global.ownernumber = '2348107582855'  //creator number
-global.ownername = '𝗛𝗘𝗥𝗠𝗜𝗢𝗡𝗘✝️' //owner name
-global.botname = 'メ メ 𝗛𝗘𝗥𝗠𝗜𝗢𝗡𝗘✝️' //name of the bot
+global.ownernumber = '2347083808798'  //creator number
+global.ownername = '𝕮𝖍𝖆𝖔𝖘ᴳᴿᴱᵞ' //owner name
+global.botname = '𝕮𝖍𝖆𝖔𝖘ᴳᴿᴱᵞ' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By your mom'
+global.packname = '𝕮𝖍𝖆𝖔𝖘ᴳᴿᴱᵞ'
 global.author = 'メ メ 𝗛𝗘𝗥𝗠𝗜𝗢𝗡𝗘✝️'
 
 //console view/theme
