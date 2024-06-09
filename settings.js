@@ -10,18 +10,18 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2347083808798"
-global.ownername = "𝕮𝖍𝖆𝖔𝖘ᴳᴿᴱᵞ"
+global.ownernomer = "2349068383396"
+global.ownername = "Tryme😈🫴🔪ᴳᴿᴱᵞ"
 global.ytname = "YT: Xeon"
 global.socialm = "GitHub: Feranmi245"
 global.location = "nigeria, lagos, abuja"
 
-global.ownernumber = '2347083808798'  //creator number
-global.ownername = '𝕮𝖍𝖆𝖔𝖘ᴳᴿᴱᵞ' //owner name
-global.botname = '𝕮𝖍𝖆𝖔𝖘ᴳᴿᴱᵞ' //name of the bot
+global.ownernumber = '2349068383396'  //creator number
+global.ownername = 'Tryme😈🫴🔪ᴳᴿᴱᵞ' //owner name
+global.botname = 'Tryme😈🫴🔪ᴳᴿᴱᵞ' //name of the bot
 
 //sticker details
-global.packname = '𝕮𝖍𝖆𝖔𝖘ᴳᴿᴱᵞ'
+global.packname = 'Tryme😈🫴🔪ᴳᴿᴱᵞ'
 global.author = 'メ メ 𝗛𝗘𝗥𝗠𝗜𝗢𝗡𝗘✝️'
 
 //console view/theme
@@ -29,7 +29,7 @@ global.themeemoji = '✝️'
 global.wm = "Hermione Bot Inc."
 
 //theme link
-global.link = 'https://chat.whatsapp.com/BmR7ddjPv7Y2zMyCxn4HFH'
+global.link = 'https://chat.whatsapp.com/BtMW59TPpqeEuAOfPn3UHg'
 
 //custom prefix
 global.prefa = ['!','.','#','&']
@@ -48,7 +48,7 @@ global.autoswview = false //auto view status/story
 //v2 is link + image menu,
 //v3 is video menu,
 //v4 is call end menu
-global.typemenu = 'v1'
+global.typemenu = 'v3'
 
 //text bug
 global.xbugtex = {
